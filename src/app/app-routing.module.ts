@@ -13,6 +13,8 @@ const routes: Routes = [
     path: 'about/:id', 
     component: AboutComponent
   },
+
+  
   
 ];
 
